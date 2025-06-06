@@ -10,10 +10,10 @@ Currently focused on crafting responsive interfaces with **React** and **Django*
 ---
 
 ### 🚀 Tech Stack
-- **Frontend:** React, Django (Templates), HTML5, Tailwind CSS  
-- **Backend:** Flask, Django REST Framework  
-- **Database:** MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Postman, VS Code
+- **Frontend:** React, Django (Templates), TypeScripts, HTML5, Tailwind CSS  
+- **Backend:** Flask, Node
+- **Database:** MongoDB, PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Postman, VS Code, DOCKER
 
 ---
 
