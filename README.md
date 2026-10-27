@@ -10,16 +10,16 @@ Currently focused on crafting responsive interfaces with **React** and **Django*
 ---
 
 ### 🚀 Tech Stack
-- **Frontend:** React, Django (Templates), TypeScripts, HTML5, Tailwind CSS  
-- **Backend:** Flask, Node
-- **Database:** MongoDB, PostgreSQL, MySQL
+- **Frontend:** React, TypeScripts, HTML5, Tailwind CSS  
+- **Backend:** Laravel
+- **Database:** PostgreSQL, MySQL
 - **Tools:** Git, GitHub, Postman, VS Code, DOCKER
 
 ---
 
 ### 📌 Projects
 - 🔧 **YWAM DAR Management System** – A custom platform for organizational management  
-- 📱 **Personal Portfolio** – Built with React and Flask, showcasing my development work
+- 📱 **Smart Agri-Advisory System** – Built with Laravel, helping small scale farmers with AI agriculture advice without depending on internet.
 - 🏠 **Build Management System** -A platform for helping construction management
 
 ---
@@ -45,7 +45,7 @@ _"Whatever you do, do it all for the glory of God."_ – 1 Corinthians 10:31
 
 ### 📫 Let’s Connect
 - 🌐 *[my portfolio link here]*  
-- ✉️ *youngwilliamsadiki@gmail.com*
+- ✉️ *mrsadikiy@gmail.com*
 
 <!--
 **Comradewilliam/Comradewilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
